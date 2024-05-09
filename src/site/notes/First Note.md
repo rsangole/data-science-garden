@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-note/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/first-note/","tags":["gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 This is my homepage
