@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/conformal-prediction/","tags":["conformal-prediction"]}
+{"dg-publish":true,"permalink":"/conformal-prediction/","tags":["conformal-prediction"],"noteIcon":""}
 ---
 
 
