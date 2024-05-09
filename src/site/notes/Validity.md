@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/validity/"}
+{"dg-publish":true,"permalink":"/validity/","noteIcon":""}
 ---
 
 **Coverage** probability that prediction region correctly contains the true values. These are prediction intervals for regression tasks.
