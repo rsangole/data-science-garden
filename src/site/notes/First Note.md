@@ -4,5 +4,5 @@
 
 This is my homepage
 
-[[Conformal Prediction/Conformal Prediction\|Conformal Prediction]]
+[[Conformal Prediction/conformal prediction\|conformal prediction]]
 
